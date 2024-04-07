@@ -15,8 +15,7 @@
    <a href="https://github.com/lifeofmit"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/lifeofmit?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
  </p>
 
-## Profile Views
-  <table>
+  <table align="center">
     <tr>
       <!-- <th>Profile Views</th> -->
       <th>Total Count</th>
@@ -55,8 +54,8 @@
 
 ## Activity On GitHub
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lifeofmit&theme=highcontrast" alt="lifeofmit" /></p>
-
+<!--
 ## Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lifeofmit" alt="lifeofmit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lifeofmit" alt="lifeofmit" /></a> </p>-->
 
 
