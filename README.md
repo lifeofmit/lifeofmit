@@ -1,6 +1,6 @@
 
-  <div style="background-color:black;">
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/lifeofmit">Mit Joshi</a></h1>
+<body style="background-color:black;">
+<h1 align="center" style="color:white">Hi 👋, I'm <a style="color:#8a2be2" href="https://github.com/lifeofmit">Mit Joshi</a></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=435&lines=Front+End+Developer...;+4%2B+Yrs+of+</>+Experience...; I+was+Created+to+Create... " alt="Typing SVG" /></a>
 </p>
@@ -52,18 +52,18 @@
 </p>-->
 
 
-## Languages and Tools
+<h2 align="left" style="color:white">Languages and Tools</h2>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-## My Stats
+<h2 align="left" style="color:white">My Stats</h2>
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lifeofmit&show_icons=true&theme=dracula&locale=en&layout=compact" alt="lifeofmit" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lifeofmit&show_icons=true&theme=dracula&locale=en" alt="lifeofmit" /></p>
 
-## Activity On GitHub
+<h2 align="left" style="color:white">Activity on GitHub</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lifeofmit&theme=highcontrast" alt="lifeofmit" /></p>
 
-## Trophies
+<h2 align="left" style="color:white">Trophies</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lifeofmit" alt="lifeofmit" /></a> </p>
 
-</div>
+</body>
