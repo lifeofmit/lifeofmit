@@ -1,5 +1,5 @@
-
-<body style="background-color:black;">
+<html>
+  <body style="background-color:black;">
 <h1 align="center" style="color:white">Hi 👋, I'm <a style="color:#8a2be2" href="https://github.com/lifeofmit">Mit Joshi</a></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=435&lines=Front+End+Developer...;+4%2B+Yrs+of+</>+Experience...; I+was+Created+to+Create... " alt="Typing SVG" /></a>
@@ -67,3 +67,4 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lifeofmit" alt="lifeofmit" /></a> </p>
 
 </body>
+</html>
