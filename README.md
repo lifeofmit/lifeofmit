@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/lifeofmit">Mit Joshi</a></h1>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Front%20End%20Developer;I%20was%20Created%20to%20Create;4+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Front%20End%20Developer;I%20was%20Created%20to%20Create;4+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" />
 </p>
 
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
