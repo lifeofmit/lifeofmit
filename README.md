@@ -1,6 +1,6 @@
 <html>
   <head>
-  <link rel="icon" type="image/x-icon" href="https://lifeofmit.github.io/lifeofmit/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
   </head>
   <body style="background-color:black;">
 <h1 align="center" style="color:white">Hi 👋, I'm <a style="color:#8a2be2" href="https://github.com/lifeofmit">Mit Joshi</a></h1>
