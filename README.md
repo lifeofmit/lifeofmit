@@ -1,4 +1,7 @@
 <html>
+  <head>
+  <link rel="icon" type="image/x-icon" href="https://github.com/lifeofmit/lifeofmit/assets/75907060/387b6ae5-6f9d-4636-9d03-8013bcf55867">
+  </head>
   <body style="background-color:black;">
 <h1 align="center" style="color:white">Hi 👋, I'm <a style="color:#8a2be2" href="https://github.com/lifeofmit">Mit Joshi</a></h1>
 <p align="center" style="background-color:black;">
