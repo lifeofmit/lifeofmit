@@ -6,11 +6,15 @@
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
+  <a href="https://stackoverflow.com/users/24095129/mit-joshi"><img alt="Stack Overflow" title="Stack Overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://dev.to/lifeofmit"><img alt="Dev" title="Dev" src="https://img.shields.io/badge/DEV-grey?style=for-the-badge&logo=dev.to"/></a>
+  <a href="https://codepen.io/lifeofmit"><img alt="CodePen" title="CodePen" src="https://img.shields.io/badge/CODEPEN-black?style=for-the-badge&logo=codepen"/></a>
+  <a href="https://leetcode.com/mitjoshi0207/"><img alt="LeetCode" title="LeetCode" src="https://img.shields.io/badge/LEETCODE-brown?style=for-the-badge&logo=leetcode"/></a>
+  <a href="https://discord.com/channels/@lifeofmit"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UC6_b1JbfzBmHPpm5K9yF9WA"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://linkedin.com/in/mit-joshi"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/lifeofmit"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:mit_joshi@outlook.com"><img alt="Outlook" title="Outlook" src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white"/></a>
-  <a href="https://discord.gg/"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.youtube.com/channel/UC6_b1JbfzBmHPpm5K9yF9WA"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:mit_joshi@outlook.com"><img alt="Outlook" title="Outlook" src="https://img.shields.io/badge/OUTLOOK-blue?style=for-the-badge&logo=microsoftoutlook"/></a>
   <!--<a href="https://ko-fi.com/"><img alt="Kofi" title="Kofi" src="https://img.shields.io/badge/-Kofi-ff7389?style=for-the-badge&logo=kofi&logoColor=white"/></a>-->
 <a href="https://github.com/lifeofmit?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lifeofmit?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
