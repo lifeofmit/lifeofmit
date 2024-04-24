@@ -64,6 +64,7 @@
 <p align="center"  style="background-color:black;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lifeofmit&show_icons=true&&theme=highcontrast&locale=en" alt="lifeofmit" /></p>
 
 <h2 align="left" style="color:white">Activity on GitHub</h2>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lifeofmit&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a> -->
 <p align="center"  style="background-color:black;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lifeofmit&theme=highcontrast" alt="lifeofmit" /></p>
 
 <h2 align="left" style="color:white">Trophies</h2>
